@@ -14,5 +14,6 @@ public class Main {
         System.out.println("test change prior to commit");
         System.out.println("test change after 2nd commit");
         System.out.println("Added a new line to indicate the emergency hot fix performed.");
+        System.out.println("Somehow the above line is made to as per the main, adding a new one again.");
     }
 }
