@@ -16,5 +16,6 @@ public class Main {
         System.out.println("Added a new line to indicate the emergency hot fix performed.");
         System.out.println("To indicate a difference in the main (as a base file).");
         System.out.println("Just adding another stuff so there's 2nd update in the main (as a base file).");
+        System.out.println("Just adding another stuff so there's 3rd update in the main (as a base file).");
     }
 }
