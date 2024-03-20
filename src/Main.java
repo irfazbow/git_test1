@@ -14,5 +14,6 @@ public class Main {
         System.out.println("test change prior to commit");
         System.out.println("test change after 2nd commit");
         System.out.println("Small change to indicate for a new feature, which well is not actually a feature.");
+        System.out.println("Just adding some kekl new feature.");
     }
 }
