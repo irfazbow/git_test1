@@ -17,5 +17,6 @@ public class Main {
         System.out.println("Somehow the above line is made to as per the main, adding a new one again.");
         System.out.println("Rebase-trial addition 2");
         System.out.println("Rebase-trial addition 3");
+        System.out.println("Rebase-trial for the trial2, a backup incase still confused with trial1.");
     }
 }
