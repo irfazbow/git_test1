@@ -17,5 +17,7 @@ public class Main {
         System.out.println("To indicate a difference in the main (as a base file).");
         System.out.println("Just adding another stuff so there's 2nd update in the main (as a base file).");
         System.out.println("Just adding another stuff so there's 3rd update in the main (as a base file).");
+        System.out.println("Small change to indicate for a new feature, which well is not actually a feature.");
+        System.out.println("Just adding some kekl new feature.");
     }
 }
