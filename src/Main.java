@@ -12,9 +12,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("test change prior to commit");
-        System.out.println("test change after 2nd commitg");
-        System.out.println("i = " + i);
-        System.out.println("test change prior to commit");
-        System.out.println("test change after 2nd commitg");
+        System.out.println("test change after 2nd commit");
     }
 }
